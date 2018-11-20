@@ -1,0 +1,8 @@
+img {
+    float: right;
+}
+/*With CSS float, an element can be pushed to the left or right, allowing other elements to wrap around it.
+Float is often used with images, but it is also useful when working with layouts.
+The values for the float property are left, right, and none.
+Left and right float elements in those directions, respectively. none (the default) ensures that the element will not float.
+Below is an example of an image that is floated to the right. */
