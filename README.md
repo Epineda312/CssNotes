@@ -1,2 +1,2 @@
 # CssNotes
-Css Notes from a front end course
+Some Css Notes for reference
