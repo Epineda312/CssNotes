@@ -1,0 +1,14 @@
+/*
+text-shadow with Blur Effect
+
+When working with shadows, you can use any CSS-supported color format.
+
+For the x and y offsets, various types of units can be used (like px, cm, mm, in, pc, pt, etc).
+Negative values are also supported.
+
+The example below creates a blue drop-shadow, two pixels higher than the main text, one pixel to the left of it, and with a 0.5em blur: 
+*/
+h1 {
+    font-size: 20pt;   
+    text-shadow: rgba(0,0,255,1) -1px -2px 0.5em; 
+}
