@@ -1,0 +1,16 @@
+/*
+The vertical-align Property
+
+The vertical-align property sets an element's vertical alignment. Commonly used values are top, middle, and bottom.
+
+The example below shows how to vertically align the text between the table. 
+*/
+td.top {
+    vertical-align: top;
+}
+td.middle {
+    vertical-align: middle;
+}
+td.bottom {
+    vertical-align: bottom;
+}
