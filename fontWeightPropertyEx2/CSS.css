@@ -1,0 +1,15 @@
+/*
+The font-style Property
+
+The font-style property has three values: normal, italic, and oblique.
+Oblique is very similar to italic, but less supported. 
+*/
+p.normal {
+    font-style: normal;
+}
+p.italic {
+    font-style: italic;
+}
+p.oblique {
+    font-style: oblique;
+}
