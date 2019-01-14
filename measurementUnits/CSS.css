@@ -1,0 +1,12 @@
+/*
+Measurement Units
+
+To define an extra space between words, you can use positive measurement values like px, pt, pc, cm, mm, inches, em, and ex.
+Negative values are also permitted. Here is an example to show the difference. 
+*/
+p.positive { 
+    word-spacing: 20px;
+}
+p.negative { 
+    word-spacing: -5px;
+}
