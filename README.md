@@ -1,2 +1,2 @@
 # CssNotes
-Some Css Notes fo
+Some Css Notes for front end web development.
